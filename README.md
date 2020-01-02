@@ -18,6 +18,7 @@
 
 ### Original text below:
 
+```ascii
 Release_PPCS_3.1.0 20180524：
 1.P2P 库更新为最新版本 3.1.0 版。
 2.ListenTester_PPCS：模拟设备端的测试程序，包括模拟标准P2P平台设备端与RTOS P2P平台设备端。
@@ -31,3 +32,4 @@ PS:
 3.ConnectionTester：连接测试工具。用来测试分析与设备端的连接效果。
 4.ReadWriteTester：读写传输测试工具，需配合 ListenTester_PPCS 来测试。
 5.更多详细说明请参考SDK Release_PPCS_3.1.0/Doc/目录下 P2P SDK 说明文档与P2P 技术白皮书。
+```
